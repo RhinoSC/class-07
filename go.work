@@ -1,0 +1,7 @@
+go 1.21.4
+
+use (
+	./excercise-01/app1
+	./excercise-02/app2
+	./excercise-03/app3
+)
